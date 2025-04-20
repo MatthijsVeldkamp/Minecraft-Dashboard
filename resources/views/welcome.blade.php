@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-s<div class="hero min-h-[calc(100vh-4rem)] bg-base-200">
+<div class="hero min-h-[calc(100vh-4rem)] bg-base-200">
     <div class="hero-content text-center">
         <div class="max-w-md">
             <h1 class="text-5xl font-bold">Minecraft Dashboard</h1>
